@@ -5,4 +5,8 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  server: {
+    host: true, // Allow external access
+    allowedHosts: ["22k6wc-5173.csb.app"], // Add CodeSandbox URL
+  },
 });
