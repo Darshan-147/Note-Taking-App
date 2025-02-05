@@ -6,7 +6,7 @@ To get started with the frontend of the Note-Taking App, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Darshan-147/Note-Taking-App.git
    ```
 
 2. Change to the frontend directory:

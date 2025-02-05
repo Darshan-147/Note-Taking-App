@@ -4,7 +4,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Darshan-147/Note-Taking-App.git
     ```
 
 2. Navigate to the backend directory:
